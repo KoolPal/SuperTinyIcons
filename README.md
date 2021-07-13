@@ -17,7 +17,8 @@ Say thanks!
 ## What's Available so far?
 
 ### iGMS
-<img src="https://github.com/KoolPal/SuperTinyIcons/blob/master/images/png/EmailHeaderLogo.png" width="100" />
+![image](https://user-images.githubusercontent.com/454883/125438370-5551ec29-5910-429e-acd7-7251aae8783a.png)
+
 
 ### Social Media
 
